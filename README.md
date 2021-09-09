@@ -4,5 +4,5 @@ This is a reference template that can be used when developing event streaming ap
 ## Prerequisites
 
 1. [Setup Kafka Cluster](/setup-kafka.md)
-2. Setup Database
+2. [Setup Database](/setup-database.md)
 
